@@ -1,6 +1,6 @@
 # hesabi_app
 
-A new Flutter project.
+debt management app
 
 ## Getting Started
 
